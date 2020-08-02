@@ -1,5 +1,5 @@
 # jit-aiml-chatbot
- simple chatbot using Artificial Intelligence Mark Up language using pythin
+ simple chatbot using Artificial Intelligence Mark Up language using python
 
 ### clone this repo
 
@@ -7,7 +7,9 @@
 
 using cmd change the dir to cloned dir
 
-TYPE **set FLASK_APP=chatbot.py**
+TYPE 
+
+**set FLASK_APP=chatbot.py**
 
 **flask run**
 
